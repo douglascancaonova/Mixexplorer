@@ -1,0 +1,2 @@
+cat nome_do_arquivo_suspeito.sh | grep -i "http" # Procura por URLs no script
+cat nome_do_arquivo_suspeito.sh | grep -i "rm -rf" # Procura por comandos perigosos

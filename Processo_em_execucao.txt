@@ -1,0 +1,1 @@
+ps -ef | grep -v "kworker" | grep -v "kdevtmpfs" # Lista processos sem os kernels/sistema

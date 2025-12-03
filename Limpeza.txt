@@ -1,0 +1,1 @@
+pm list packages -f | cut -d: -f2 | sed 's/\/data\/app\///' | sed 's/\/base.apk.*//'

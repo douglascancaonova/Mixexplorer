@@ -1,0 +1,1 @@
+echo "Modelo do Aparelho: $(getprop ro.product.model)" && echo "Fabricante: $(getprop ro.product.manufacturer)" && echo "Versão Android (SDK): $(getprop ro.build.version.sdk)" && echo "Versão Android (Nome): $(getprop ro.build.version.release)"

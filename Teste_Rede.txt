@@ -1,0 +1,1 @@
+ping -c 5 google.com && echo "Conectado ao Google.com" || echo "Problemas de conexão ao Google.com"

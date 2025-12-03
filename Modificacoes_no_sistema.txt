@@ -1,0 +1,1 @@
+find /sdcard/Download /sdcard/DCIM /sdcard/Movies /sdcard/Music -type f -mtime -1 -print
